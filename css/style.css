@@ -1,0 +1,76 @@
+body{
+    background-color: hsl(0, 100%, 74%);
+    background-image: url(../images/bg-intro-desktop.png);
+}
+section{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+    padding:0 100px ;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    line-height: 60px;
+}
+p{
+    color: rgb(240, 238, 238);
+    width: 500px;
+}
+h4{
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    border-radius: 9px;
+    padding: 30px;
+    padding-bottom: 20px;
+       
+}
+h4{
+    background-color: hsl(248, 32%, 49%);
+    text-align: center;
+    color: white;
+    padding: 15px 90px;
+    border-radius: 9px;
+    box-shadow: 0px 6px 1px rgba(0, 0, 0, 0.212);
+}
+.span1{
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.883);
+
+}
+input{
+    padding: 12px 40px;
+    font-size: 15px;
+    font-weight: 700;
+    border: 1px solid rgba(218, 215, 215, 0.644);
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+
+}
+button{
+    background-color: hsl(154, 59%, 51%);
+    border: none;
+    font-size: 14px;
+    padding: 17px;
+    color: white;
+    font-weight: 400;
+    border-radius: 6px; 
+    box-shadow: 0px 3px 2px  #27a56e;
+}
+h6{
+    color: rgb(207,207,207);
+    margin: 15px 0 30px 0;
+    
+
+}
+.span2{
+    color: hsl(0, 100%, 74%);
+}
